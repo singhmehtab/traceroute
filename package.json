@@ -1,0 +1,10 @@
+{
+  "name": "traceroute-javascript",
+  "version": "1.0.0",
+  "dependencies": {
+    "dns-then": "^0.1.0",
+    "icmp": "^2.0.1",
+    "performance": "^1.4.0",
+    "raw-socket": "^1.7.0"
+  }
+}
